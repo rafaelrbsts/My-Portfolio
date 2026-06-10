@@ -27,7 +27,7 @@ function About() {
                 titulo="Objetivo">
                     <div className="goal">
                         <span><QuoteIcon sx={{fontSize:"64px"}}/></span>
-                        <p>Busco uma primeira oportunidade no mercado de trabalho da Tecnologia da Informação, com objetivo de aprender e colocar em prática meus conhecimentos adquiridos através da minha formação em andamento, e também dos meus projetos pessoais que envolvem o uso de React, Html, Css, versionamento de código GitHub, design Figma, etc.</p>
+                        <p>Busco uma primeira oportunidade no mercado de trabalho da Tecnologia da Informação, com objetivo de aprender e colocar em prática meus conhecimentos adquiridos através da minha formação em andamento, e também dos meus projetos pessoais que envolvem o uso de React, Html, Css, consultas SQL, versionamento de código GitHub, design Figma.</p>
                     </div>
                 </AboutCard>
             </div>
